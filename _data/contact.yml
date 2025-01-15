@@ -4,6 +4,8 @@
   url: https://github.com/c0da3n
   icon: "fab fa-github"
 
+- type:
+
 - type: email
   icon: "fas fa-envelope"
   url: "sky@codawn.dev"

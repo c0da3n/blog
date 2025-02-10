@@ -57,13 +57,14 @@ I hope you enjoy my blog
 <ul>
     <li>Styled-components</li>
 </ul>
-<strong>&lt;Bundler&gt;</strong>
-<ul>
-    <li>Vite</li>
-</ul>
+
 <strong>&lt;Code Formatter&gt;</strong>
 <ul>
     <li>Prettier</li>
+</ul>
+<strong>&lt;Design tool&gt;</strong>
+<ul>
+    <li>Figma</li>
 </ul>
 </p>
 

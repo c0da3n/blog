@@ -4,7 +4,9 @@
   url: https://github.com/c0da3n
   icon: "fab fa-github"
 
-- type:
+- type: instagram
+  url: https://instagram.com/rickyqop
+  icon: "fab fa-instagram"
 
 - type: email
   icon: "fas fa-envelope"
